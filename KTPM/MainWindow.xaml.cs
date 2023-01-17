@@ -22,6 +22,7 @@ namespace KTPM
     {
         public string name { get; set; }
         public string age { get; set; }
+        public int a { get; set; }
         public MainWindow()
         {
             InitializeComponent();

@@ -9,6 +9,6 @@
     <StackPanel>
         <TextBlock x:Name="tb1" Height="50"></TextBlock>
         <TextBlock x:Name="tb2" Height="50"></TextBlock>
-		<MenuItem></MenuItem>
+		
     </StackPanel>
 </Window>

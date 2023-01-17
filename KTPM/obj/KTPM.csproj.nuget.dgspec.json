@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Source\\Repos\\new\\KTPM\\KTPM.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\new\\KTPM\\KTPM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Source\\Repos\\new\\KTPM\\KTPM.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\new\\KTPM\\KTPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\new\\KTPM\\KTPM.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\new\\KTPM\\KTPM.csproj",
         "projectName": "KTPM",
-        "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\new\\KTPM\\KTPM.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\new\\KTPM\\KTPM.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\new\\KTPM\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\new\\KTPM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
